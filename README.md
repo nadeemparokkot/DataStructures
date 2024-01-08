@@ -6,6 +6,11 @@
 
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/hamza-nadeem-p-a85785242/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>
 <a href="https://github.com/nadeemparokkot" alt="nadeem"><img src="https://img.shields.io/badge/Build by - Nadeem Parokkot-blue" /></a>
+#### 💡 If you want to look deeper about Data structures,Algorithm,Complexity Analysis and Memory Managment you should definitely check out my notion 💡
+<a class="header-badge" target="_blank" href="https://nadeemparokkotdsa.notion.site/Data-structure-04b66299f681402fa7b2af028c3b1b0b?pvs=4">
+  <img src="https://img.shields.io/badge/-Notion-181717?logo=notion&style=social">
+</a>
+
 # Data structure
 Data structures are like the bones and muscles of any good program.Here we going through some data structures by using Python
 
