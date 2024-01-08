@@ -1,8 +1,8 @@
 <p align="center">
   <a href=""><img src="https://capsule-render.vercel.app/api?type=rect&color=666666&height=100&section=header&text=Algorithms%20And%20Data%20Structures&fontSize=55%&fontColor=ffffff&fontAlignY=65" alt="website title image"></a>
   <h2 align="center">💡 A Collection of Data Structures in Python 💡</h2>
- <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
 </p>
+ <a href="https://www.python.org/"><img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge"></a>
 
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/hamza-nadeem-p-a85785242/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>
 <a href="https://github.com/nadeemparokkot" alt="nadeem"><img src="https://img.shields.io/badge/Build by - Nadeem Parokkot-blue" /></a>
