@@ -71,6 +71,11 @@ Ex: integer, Character, Real numbers etc.</p>
 - **Tree**
 - **Graph**
 
+## Main operations
+
+1. **Searching**
+2. **Sorting**
+
 
 > **When we do a program, knowing only the data structure is not enough, we also need to know the algorithms,Because**
 >
