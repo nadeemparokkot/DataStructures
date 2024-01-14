@@ -12,7 +12,7 @@
 </a>
 
 # Data structure
-Data structures are like the bones and muscles of any good program.Here we going through some data structures by using Python
+Data structures are like the bones and muscles of any good program.Here we going through some data structures by using 
 
 
 <h2>What is Data structure</h2>
