@@ -14,7 +14,7 @@ class Stack:
             self.top=newNode
     def pop(self):
         if self.top is None:
-            print("stack overflow")
+            print("stack underflow")
             return
 
         self.top=self.top.next
